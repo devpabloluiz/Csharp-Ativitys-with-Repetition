@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Ativitys\Repeticoes\Repeticao3\bin\Debug\net6.0\Repeticao3.exe
+C:\Users\Pichau\Desktop\Ativitys\Repeticoes\Repeticao3\bin\Debug\net6.0\Repeticao3.deps.json
+C:\Users\Pichau\Desktop\Ativitys\Repeticoes\Repeticao3\bin\Debug\net6.0\Repeticao3.runtimeconfig.json
+C:\Users\Pichau\Desktop\Ativitys\Repeticoes\Repeticao3\bin\Debug\net6.0\Repeticao3.dll
+C:\Users\Pichau\Desktop\Ativitys\Repeticoes\Repeticao3\bin\Debug\net6.0\ref\Repeticao3.dll
+C:\Users\Pichau\Desktop\Ativitys\Repeticoes\Repeticao3\bin\Debug\net6.0\Repeticao3.pdb
+C:\Users\Pichau\Desktop\Ativitys\Repeticoes\Repeticao3\obj\Debug\net6.0\Repeticao3.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Ativitys\Repeticoes\Repeticao3\obj\Debug\net6.0\Repeticao3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Ativitys\Repeticoes\Repeticao3\obj\Debug\net6.0\Repeticao3.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Ativitys\Repeticoes\Repeticao3\obj\Debug\net6.0\Repeticao3.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Ativitys\Repeticoes\Repeticao3\obj\Debug\net6.0\Repeticao3.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Ativitys\Repeticoes\Repeticao3\obj\Debug\net6.0\Repeticao3.dll
+C:\Users\Pichau\Desktop\Ativitys\Repeticoes\Repeticao3\obj\Debug\net6.0\ref\Repeticao3.dll
+C:\Users\Pichau\Desktop\Ativitys\Repeticoes\Repeticao3\obj\Debug\net6.0\Repeticao3.pdb
+C:\Users\Pichau\Desktop\Ativitys\Repeticoes\Repeticao3\obj\Debug\net6.0\Repeticao3.genruntimeconfig.cache
